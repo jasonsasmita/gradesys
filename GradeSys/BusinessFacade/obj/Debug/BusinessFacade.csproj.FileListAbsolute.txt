@@ -1,0 +1,16 @@
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\BusinessFacade.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\BusinessFacade.pdb
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\Common.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\DataAccess.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\Common.pdb
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\bin\Debug\DataAccess.pdb
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\obj\Debug\BusinessFacade.csprojAssemblyReference.cache
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\obj\Debug\BusinessFacade.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\obj\Debug\BusinessFacade.csproj.CopyComplete
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\obj\Debug\BusinessFacade.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\BusinessFacade\obj\Debug\BusinessFacade.pdb

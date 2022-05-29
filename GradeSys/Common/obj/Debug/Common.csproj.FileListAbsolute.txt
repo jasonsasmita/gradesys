@@ -1,0 +1,6 @@
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\Common\bin\Debug\Common.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\Common\bin\Debug\Common.pdb
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\Common\obj\Debug\Common.dll
+C:\Users\Jason\Documents\TrainingID\ASP\GradeSys\Common\obj\Debug\Common.pdb
